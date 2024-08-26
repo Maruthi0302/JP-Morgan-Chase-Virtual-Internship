@@ -1,0 +1,31 @@
+Microsoft Windows [Version 10.0.22631.4037]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\marut>A:
+
+A:\>cd A:\python\forage-jpmc-swe-task-1
+
+A:\python\forage-jpmc-swe-task-1>git add -A
+warning: in the working copy of '.idea/inspectionProfiles/profiles_settings.xml', LF will be replaced by CRLF the next time Git touches it
+
+A:\python\forage-jpmc-swe-task-1>git config user.email "thiruvenmaruthi@gmail.com"
+
+A:\python\forage-jpmc-swe-task-1>git config user.name "Maruthi0302"
+
+A:\python\forage-jpmc-swe-task-1>git commit -m "Create Patch File"
+[main b99dd70] Create Patch File
+ 10 files changed, 53 insertions(+), 2 deletions(-)
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/forage-jpmc-swe-task-1.iml
+ create mode 100644 .idea/inspectionProfiles/profiles_settings.xml
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 .idea/vcs.xml
+ create mode 100644 __pycache__/client3.cpython-311.pyc
+ create mode 100644 __pycache__/client_test.cpython-311.pyc
+
+A:\python\forage-jpmc-swe-task-1>git format-patch -1 HEAD
+0001-Create-Patch-File.patch
+
+A:\python\forage-jpmc-swe-task-1>
+
