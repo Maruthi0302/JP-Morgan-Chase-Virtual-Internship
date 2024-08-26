@@ -15,7 +15,6 @@ This repository contains all the submitted patch files of the various tasks assi
 - `React js` 
 - `TypeScript`
 - `Web Applications`
-![Screenshot_25-8-2024_23337_](https://github.com/user-attachments/assets/a8032352-08bc-45e0-b002-38dd52aeb75e)
 
 #### 3. Display data visually for traders [Click here to see Task-3](JPMC-tech-task-3-PY3)
 - Use Perspective to create the chart for the trader's dashboard  
@@ -27,4 +26,5 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 
 - #### My Certificate of Completion
-![New]()
+![completion certificate](https://github.com/user-attachments/assets/53a4852e-ee5b-4d59-8999-a75236aa3cfc)
+
